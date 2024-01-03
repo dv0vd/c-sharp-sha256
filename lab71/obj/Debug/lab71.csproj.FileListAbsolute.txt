@@ -1,0 +1,10 @@
+C:\Users\VD\source\repos\lab71\lab71\bin\Debug\lab71.exe.config
+C:\Users\VD\source\repos\lab71\lab71\bin\Debug\lab71.exe
+C:\Users\VD\source\repos\lab71\lab71\bin\Debug\lab71.pdb
+C:\Users\VD\source\repos\lab71\lab71\obj\Debug\lab71.csprojAssemblyReference.cache
+C:\Users\VD\source\repos\lab71\lab71\obj\Debug\lab71.Form1.resources
+C:\Users\VD\source\repos\lab71\lab71\obj\Debug\lab71.Properties.Resources.resources
+C:\Users\VD\source\repos\lab71\lab71\obj\Debug\lab71.csproj.GenerateResource.cache
+C:\Users\VD\source\repos\lab71\lab71\obj\Debug\lab71.csproj.CoreCompileInputs.cache
+C:\Users\VD\source\repos\lab71\lab71\obj\Debug\lab71.exe
+C:\Users\VD\source\repos\lab71\lab71\obj\Debug\lab71.pdb
